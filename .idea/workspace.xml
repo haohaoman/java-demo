@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2529ebd-7b0b-44e5-ae2f-e81a71ef7350" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/GenericsTest/Container.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/GenericsTest/GenericsDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LeetCode/Array/PascalTriangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LeetCode/Array/PlusOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LeetCode/Array/RemoveDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/LeetCode/Array/RemoveElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/effectivejava/FastTraversalLinkedList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/effectivejava/FastTraversalLinkedList$ReadList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/effectivejava/FastTraversalLinkedList$WriteList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/effectivejava/FastTraversalLinkedList.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,75 +24,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/RemoveElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/PascalTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#388#403#0" expanded="true" />
-                <element signature="e#558#567#0" expanded="true" />
-                <element signature="e#1131#1140#0" expanded="true" />
-                <element signature="e#1507#1508#0" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="442" column="13" lean-forward="false" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlusOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/PlusOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -680,12 +621,12 @@
       <updated>1510753437547</updated>
       <workItem from="1510753441227" duration="2082000" />
       <workItem from="1511318633624" duration="1003000" />
-      <workItem from="1511345459284" duration="20792000" />
+      <workItem from="1511345459284" duration="20872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23877000" />
+    <option name="totallyTimeSpent" value="23957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="763" extended-state="6" />
@@ -706,7 +647,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29399142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29399142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -866,14 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -899,8 +832,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/Array/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
