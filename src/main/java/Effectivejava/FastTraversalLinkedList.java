@@ -1,4 +1,4 @@
-package effectivejava;
+package Effectivejava;
 
 import java.util.AbstractList;
 import java.util.ArrayList;
